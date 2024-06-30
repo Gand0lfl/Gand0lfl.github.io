@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Проект по Сетям"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md">
+        <toc-element topic="1.md"/>
+        <toc-element topic="5.md"/>
+        <toc-element topic="Empty-MD-Topic.md"/>
+        <toc-element topic="3.md"/>
+    </toc-element>
+    <toc-element topic="2.md">
+        <toc-element topic="Empty-MD-Topic1.md"/>
+        <toc-element topic="Empty-MD-Topic2.md"/>
+        <toc-element topic="Empty-MD-Topic4.md"/>
+        <toc-element topic="Empty-MD-Topic5.md"/>
+    </toc-element>
+    <toc-element topic="4.md">
+        <toc-element topic="Empty-MD-Topic6.md"/>
+        <toc-element topic="Empty-MD-Topic7.md"/>
+    </toc-element>
+</instance-profile>

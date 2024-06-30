@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="61c77e6f">
+        <description>Created after removal of "Организация" from Проект по Сетям</description>
+        <accepts>Организация.html</accepts>
+    </rule>
+    <rule id="7d17bd1b">
+        <description>Created after removal of "Кейс 3: Улучшение кибербезопасности для финансовой компании" from Проект
+            по Сетям
+        </description>
+        <accepts>Empty-MD-Topic3.html</accepts>
+    </rule>
+</rules>
